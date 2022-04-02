@@ -1,0 +1,3 @@
+To run the program python3 is needed. Packages: scikit-learn(https://scikit-learn.org/stable/install.html) and nltk(https://www.nltk.org/install.html) are also needed. Good instructions to download the data used with nltk can be found here: https://www.nltk.org/data.html. Note that you don't need all the data so downloading only nltk.download('popular') is suggested.
+
+The first k-means based clustering can be run with the file kmeans.py and the optimized version with the file spectral.py. The data(abstractdata5.csv) file must locate in the same root directory with the python files.
